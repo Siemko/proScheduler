@@ -1,4 +1,4 @@
-#Pro Scheduler
+# Pro Scheduler
 
 ## URUCHAMIANIE
 W folderze Schedule znajdują się dwa podfoldery, w których przechowywane są pliki .py projektu - folder Schedule 
