@@ -1,4 +1,6 @@
-URUCHAMIANIE
+#Pro Scheduler
+
+## URUCHAMIANIE
 W folderze Schedule znajdują się dwa podfoldery, w których przechowywane są pliki .py projektu - folder Schedule 
 oraz pliki .py aplikacji - ScheduleApp. Plik db.sqlite3 reprezentuje bazę danych, natomiast plik manage.py służy do
 uruchomienia aplikacji ScheduleApp. 
@@ -17,11 +19,11 @@ Django version 1.9.6, using settings 'Schedule.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 
-W przegl�darke nale�y wpisa� adres:
+W przeglądarke należy wpisać adres:
 
 http://127.0.0.1:8000/ScheduleApp
 
-DZIAŁANIE
+## DZIAŁANIE
 
 Aplikacja na stronie głównej(/ScheduleApp/) daje możliwość dodawania i usuwania dni z listy. Widoczne 
 są też wszystkie zaplanowane dni oraz ilość zadań jaka została wpisana na dany dzień.
