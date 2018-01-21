@@ -1,0 +1,75 @@
+body {
+    background: #E4EFF1;
+    font-family: "Cambria", Times, serif;
+}
+
+h3.header-link{
+    position: absolute;
+    top: 8%;
+    left: 43%;
+}
+
+form.add-day{
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    width: 20%;
+    height: 10%;
+    border: 1px dotted #999;
+    font-family: "Cambria", Times, serif;
+
+}
+
+input.entry{
+      font-family: courier;
+      font-size:   80%;
+      padding:     0.1em;
+      height: 20px;
+      margin: 0.1em;
+}
+
+
+
+
+form.add_task{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+}
+
+div.task_table{
+
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 55%;
+    height: 70%;
+    background: #f4f4f4;
+    display: inline-block;
+    border: 2px black;}
+
+div.row{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.right_column {
+    font-family: "Cambria", Times, serif;
+    width:20%;
+    padding:10px;
+    float:right;
+    display: inline-block
+    text_align: center
+    }
+
+
+div.left_column {
+    font-family: "Cambria", Times, serif;
+    width:45%;
+    padding:10px;
+    float: left;
+    display: inline-block
+    text_align: center
+    }
+
