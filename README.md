@@ -5,7 +5,9 @@ W folderze Schedule znajdują się dwa podfoldery, w których przechowywane są 
 oraz pliki .py aplikacji - ScheduleApp. Plik db.sqlite3 reprezentuje bazę danych, natomiast plik manage.py służy do
 uruchomienia aplikacji ScheduleApp. 
 1. Aby uruchomić aplikację w systemie Windows, należy ustawić w wierszu polecenia
- katalog na Schedule i uruchomić aplikację poleceniem:
+ katalog na Schedule i uruchomić migrację, a następnie aplikację poleceniami:
+ 
+>python manage.py migrate
 
 >python manage.py runserver
 
